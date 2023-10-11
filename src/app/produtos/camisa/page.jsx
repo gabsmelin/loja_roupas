@@ -9,24 +9,24 @@ export default function Camisa() {
             </div>
             <ul>
                 <li>
-                    <Image src="/img/camiseta1.png" alt="Camiseta cargo verde." width={250} height={300}/>
-                    <p>Camiseta Cargo</p>
+                    <Image src="/img/camiseta1.png" alt="Camiseta." width={250} height={300}/>
+                    <p>Camiseta   </p>
                     <p>R$79,99</p>
                     <p>Camiseta na cor branca, estampada.</p>
                     <button>Esgotado.</button>
                 </li>
                 <li>
-                    <Image src="/img/camiseta2.png" alt="Camiseta cargo jeans." width={250} height={300}/>
-                    <p>Camiseta Cargo</p>
+                    <Image src="/img/camiseta2.png" alt="Camiseta." width={250} height={300}/>
+                    <p>Camiseta   </p>
                     <p>R$85,00</p>
-                    <p>Camiseta Cargo na cor preta, estampada.</p>
+                    <p>Camiseta na cor preta, estampada.</p>
                     <button>Esgotado.</button>
                 </li>
                 <li>
-                    <Image src="/img/camiseta3.png" alt="Camiseta cargo bege." width={250} height={300}/>
-                    <p>Camiseta Cargo</p>
+                    <Image src="/img/camiseta3.png" alt="Camiseta." width={250} height={300}/>
+                    <p>Camiseta   </p>
                     <p>R$90,00</p>
-                    <p>Camiseta Cargo na cor azul, estampada.</p>
+                    <p>Camiseta na cor azul, estampada.</p>
                     <button>Esgotado.</button>
                 </li>
             </ul>
